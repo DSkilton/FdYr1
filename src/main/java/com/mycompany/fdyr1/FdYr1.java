@@ -18,6 +18,6 @@ public class FdYr1 { // start of our file/ class
         EnrollmentMapper.getAllEnrollments(conn);
         System.out.println(EnrollmentMapper.getAllEnrollments(conn));
         
-    }
+    } // end of main
     
 } // end of the class 
